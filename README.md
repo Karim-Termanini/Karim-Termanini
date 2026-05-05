@@ -8,7 +8,7 @@ Informatik-Student (B.Sc.) an der Hochschule Hannover mit Fokus auf Webentwicklu
 
 - 📚 Studium: Angewandte Informatik @ Hochschule Hannover
 - 🌐 Freelance Webentwickler & Admin für [Praxis Tarmanini](https://btarmanini.de)
-- 🔧 Baue gerade: [LuminaDev](https://github.com/Karim-Termanini/LuminaDev) – ein Linux-Dashboard für Docker, Server & System-Management
+- 🔧 Baue ab und zu: [LuminaDev](https://github.com/Karim-Termanini/LuminaDev) – ein Linux-Dashboard für Docker, Server & System-Management *(KI-gestützte Entwicklung)*
 
 ---
 
@@ -26,10 +26,10 @@ Informatik-Student (B.Sc.) an der Hochschule Hannover mit Fokus auf Webentwicklu
 
 | Projekt | Beschreibung | Tech |
 |---|---|---|
-| [LuminaDev](https://github.com/Karim-Termanini/LuminaDev) | Linux-Dashboard für Docker & Remote-Server | TypeScript |
-| [UNIProjekte](https://github.com/Karim-Termanini/UNIProjekte) | DataKeeper (2D-Spiel) & Stundenplan REST-API | Java |
+| [LuminaDev](https://github.com/Karim-Termanini/LuminaDev) | Linux-Dashboard für Docker & Remote-Server | TypeScript | *(KI-gestützte Entwicklung)*
+| [UNIProjekte](https://github.com/Karim-Termanini/UNIProjekte) | DataKeeper (2D-Spiel) & Stundenplan REST-API | Java | JavaScript
 | [FachAbi-Projekt](https://github.com/Karim-Termanini/FachAbi-Projekt) | Network Security Tool – DoS/DDoS Analyse | Python |
-| [PersonalProjekte](https://github.com/Karim-Termanini/PersonalProjekte) | Side-Apps & Experimente | Python |
+| [PersonalProjekte](https://github.com/Karim-Termanini/PersonalProjekte) | Side-Apps & Experimente | Python | HTML | CSS | Java | TypeScript
 
 ---
 
