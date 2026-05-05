@@ -26,10 +26,10 @@ Informatik-Student (B.Sc.) an der Hochschule Hannover mit Fokus auf Webentwicklu
 
 | Projekt | Beschreibung | Tech |
 |---|---|---|
-| [LuminaDev](https://github.com/Karim-Termanini/LuminaDev) | Linux-Dashboard für Docker & Remote-Server | TypeScript | *(KI-gestützte Entwicklung)*
-| [UNIProjekte](https://github.com/Karim-Termanini/UNIProjekte) | DataKeeper (2D-Spiel) & Stundenplan REST-API | Java | JavaScript
+| [LuminaDev](https://github.com/Karim-Termanini/LuminaDev) | Linux-Dashboard für Docker & Remote-Server *(KI-gestützt)* | TypeScript |
+| [UNIProjekte](https://github.com/Karim-Termanini/UNIProjekte) | DataKeeper (2D-Spiel) & Stundenplan REST-API | Java · JavaScript |
 | [FachAbi-Projekt](https://github.com/Karim-Termanini/FachAbi-Projekt) | Network Security Tool – DoS/DDoS Analyse | Python |
-| [PersonalProjekte](https://github.com/Karim-Termanini/PersonalProjekte) | Side-Apps & Experimente | Python | HTML | CSS | Java | TypeScript
+| [PersonalProjekte](https://github.com/Karim-Termanini/PersonalProjekte) | Side-Apps & Experimente | Python · HTML · CSS · Java · TypeScript |
 
 ---
 
